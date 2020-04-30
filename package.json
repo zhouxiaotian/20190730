@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zhouxiaotian/20190730#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "zepto": "^1.2.0"
   }
